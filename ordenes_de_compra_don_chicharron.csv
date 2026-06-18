@@ -1,0 +1,21 @@
+﻿ID_Orden,Fecha_Emision,Proveedor,Producto,Cantidad,Unidad_Medida,Precio_Unitario_COP,Subtotal_COP,IVA_19_COP,Total_COP,Fecha_Entrega_Estimada,Metodo_Pago,Estado,Solicitado_Por,Centro_Costos
+OC-2026001,2026-05-18,Distribuidora Cárnica Central,Canal de Cerdo,199,Kg,15000,2985000,567150,3552150,2026-05-21,Crédito 30 días,Pendiente,Andrés Felipe,Producción Principal
+OC-2026002,2026-05-28,Distribuidora Cárnica Central,Canal de Cerdo,161,Kg,15000,2415000,458850,2873850,2026-05-30,Transferencia Bancaria,Entregado,Carlos Mendoza,Producción Principal
+OC-2026003,2026-05-13,Porcinos del Campo,Costilla de Cerdo,153,Kg,16500,2524500,479655,3004155,2026-05-18,Crédito 30 días,En Tránsito,Andrés Felipe,Producción Principal
+OC-2026004,2026-05-11,Empaques y Plásticos Rey,Bolsas Herméticas,877,Unidad,350,306950,58320,365270,2026-05-16,Crédito 15 días,Cancelado,Carlos Mendoza,Operaciones/Logística
+OC-2026005,2026-05-06,Porcinos del Campo,Manteca de Cerdo,36,Litro,8000,288000,54720,342720,2026-05-11,Transferencia Bancaria,Cancelado,Diana Tocarruncho,Producción Principal
+OC-2026006,2026-05-30,Fruver Mayorista,Limón Tahití,21,Kg,4500,94500,17955,112455,2026-06-01,Contado,Entregado,Andrés Felipe,Operaciones/Logística
+OC-2026007,2026-05-13,Empaques y Plásticos Rey,Bandejas de Poliestireno,691,Unidad,220,152020,28884,180904,2026-05-15,Transferencia Bancaria,Pendiente,Diana Tocarruncho,Operaciones/Logística
+OC-2026008,2026-05-25,Distribuidora Cárnica Central,Canal de Cerdo,35,Kg,15000,525000,99750,624750,2026-05-29,Contado,Cancelado,Carlos Mendoza,Producción Principal
+OC-2026009,2026-06-12,Empaques y Plásticos Rey,Bandejas de Poliestireno,314,Unidad,220,69080,13125,82205,2026-06-16,Transferencia Bancaria,Pendiente,Andrés Felipe,Operaciones/Logística
+OC-2026010,2026-05-25,Porcinos del Campo,Costilla de Cerdo,128,Kg,16500,2112000,401280,2513280,2026-05-29,Crédito 30 días,Cancelado,Carlos Mendoza,Producción Principal
+OC-2026011,2026-05-26,Porcinos del Campo,Costilla de Cerdo,90,Kg,16500,1485000,282150,1767150,2026-05-30,Transferencia Bancaria,Pendiente,Andrés Felipe,Producción Principal
+OC-2026012,2026-06-01,Empaques y Plásticos Rey,Bolsas Herméticas,771,Unidad,350,269850,51272,321122,2026-06-06,Contado,Pendiente,Diana Tocarruncho,Operaciones/Logística
+OC-2026013,2026-06-05,Porcinos del Campo,Costilla de Cerdo,200,Kg,16500,3300000,627000,3927000,2026-06-09,Contado,En Tránsito,Diana Tocarruncho,Producción Principal
+OC-2026014,2026-06-01,Porcinos del Campo,Costilla de Cerdo,140,Kg,16500,2310000,438900,2748900,2026-06-03,Transferencia Bancaria,Entregado,Carlos Mendoza,Producción Principal
+OC-2026015,2026-05-05,Porcinos del Campo,Manteca de Cerdo,162,Litro,8000,1296000,246240,1542240,2026-05-10,Contado,En Tránsito,Andrés Felipe,Producción Principal
+OC-2026016,2026-05-08,Empaques y Plásticos Rey,Bolsas Herméticas,796,Unidad,350,278600,52934,331534,2026-05-12,Crédito 15 días,Entregado,Diana Tocarruncho,Operaciones/Logística
+OC-2026017,2026-05-01,Condimentos y Especias El Toque,Sal Refinada,126,Kg,1200,151200,28728,179928,2026-05-05,Crédito 30 días,Entregado,Andrés Felipe,Operaciones/Logística
+OC-2026018,2026-05-24,Empaques y Plásticos Rey,Bolsas Herméticas,256,Unidad,350,89600,17024,106624,2026-05-27,Transferencia Bancaria,Cancelado,Diana Tocarruncho,Operaciones/Logística
+OC-2026019,2026-05-20,Distribuidora Cárnica Central,Canal de Cerdo,102,Kg,15000,1530000,290700,1820700,2026-05-23,Transferencia Bancaria,Pendiente,Andrés Felipe,Producción Principal
+OC-2026020,2026-06-01,Distribuidora Cárnica Central,Canal de Cerdo,197,Kg,15000,2955000,561450,3516450,2026-06-03,Crédito 30 días,Pendiente,Andrés Felipe,Producción Principal
